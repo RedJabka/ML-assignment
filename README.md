@@ -11,4 +11,4 @@
 ## Требования:
 Должно присутствовать три скрипта: train.py, выполняющий обучение из обучающей выборки и записывающий модель в файл, validate.py, читающий модель из файла и создающий файл validation.txt, и predict.py, читающий модель из файла и создающий файлы prediction.txt и опционально, explain.txt. Каждый из трех должен запускаться без аргументов командной строки/
 
-[Нужные для установки библиотеки](https://github.com/RedJabka/ML-hiring-assaignment/requirements.txt)
+[Нужные для установки библиотеки](https://github.com/RedJabka/ML-assignment/blob/master/requirements.txt)
